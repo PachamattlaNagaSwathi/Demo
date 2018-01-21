@@ -16,7 +16,7 @@ class Example
 		else if (a<b && a<c)
 		
 
-			System.out.println(b+"Hi");
+			System.out.println(b+);
 		else
 			System.out.println(c);
 
